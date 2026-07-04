@@ -2,7 +2,6 @@ import { useState } from 'react'
 
 import ProductCard from './ProductCard'
 import ok from './assets/ok.png'
-import ok1 from './assets/ok1.png'
 import ok2 from './assets/ok2.png'
 import ok3 from './assets/ok3.png'
 

@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-import Sidebar from './Sidebar'
+import Sidebar from './SiderBar'
 import Content from './Content'
 
 function App() {
