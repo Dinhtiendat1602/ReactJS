@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.wrapper {
+  display: flex;
+  align-items: stretch;
+  min-height: 100vh;
+}
+.content {
+  flex: 1;
+  padding: 16px;
+  background-color: rgb(255, 255, 255);
+}
+.sidebar {
+  background-color: rgb(35, 35, 35);
+}
+img {
+  width: 50%;
+  height: 300px;
+}
